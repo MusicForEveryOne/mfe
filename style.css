@@ -431,7 +431,7 @@ background-size:15px auto;
 }
 
 /*MFEBOT*/
-[data-cid^="3664742-"] span.un.clickable{
+[data-cid^="3664742-"] .badge-box .bdg span.un.clickable{
 color:#FFFFFF!important;
 background: url('http://puu.sh/plNgf/e3e66cca18.png')!important;
 background-position: 0 0;
