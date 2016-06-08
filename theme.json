@@ -1,7 +1,7 @@
 {
 "room": "MFE",
 "author": "MFE Staff",
-"css": "https://dl.dropboxusercontent.com/s/te8qqy7l1et5qlp/style.css",
+"css": "http://rawgit.com/FALSEYING/mfe/master/style.css",
 "rules":{
 "allowAutorespond": true,
 "allowAutowoot": true,
