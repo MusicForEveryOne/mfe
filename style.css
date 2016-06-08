@@ -434,3 +434,8 @@ background-size:15px auto
 [data-cid^="3664742-"] span.un.clickable{
 color:#FFFFFF!important;
 }
+
+[data-cid^="3664742-"].cm .msg .from .un, .role-manager.id-3664472 .name
+{
+        color:                  white !important;
+}
