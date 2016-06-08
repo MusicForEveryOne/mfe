@@ -36,13 +36,12 @@
 "bouncer": null,
 "rdj": null,
 "subscriber": null,
-"silversubscriber": null
+"silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
 },
 "emotes": {
 "mfe": "http://i.imgur.com/RR8MUPC.png",
 "thefalse": "http://i.imgur.com/zgPfF8q.png",
 "danny": "http://i.imgur.com/hHi3NEg.png",
-"killman":"http://i.imgur.com/Ohh0FOf.png",
 "siesbicho":"http://i.imgur.com/9oSfhE5.png",
 "mfebot":"http://i.imgur.com/HXCLejG.png",
 "prasiak":"http://i.imgur.com/afGTQvQ.png",
@@ -74,6 +73,8 @@
 "partyhard": "http://puu.sh/pklxC/6279733740.gif",
 "pizzagood": "http://puu.sh/pkr8u/a1b99868ba.gif",
 "pumpkin": "http://puu.sh/pkrd0/9c69100f22.gif",
-"stephan": "http://puu.sh/pkrfG/989422d1a2.gif"
+"stephan": "http://puu.sh/pkrfG/989422d1a2.gif",
+"tigerfat": "http://i.imgur.com/j2Z0tL7.png",
+"zolos": "http://i.imgur.com/wjM8IKf.jpg"
 }
 }
