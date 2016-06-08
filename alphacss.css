@@ -364,9 +364,8 @@ left: 8px;
 background: url('http://i.imgur.com/dFFBLLb.png');
 }
 #chat .welcome{
-color: white;
+color: #63A9E6;
 font-weight: bold;
-background-color:#63A9E6;
 }
 #rcs-progress-container .bar{
 height: 100%;
