@@ -240,7 +240,7 @@ font-weight: bold;
 color: #FFFFFF;
 }
 #chat .emote{
-border: #7F1212 2px solid !important;
+border-left: #FFFFFF 4px solid !important;
 background-color: rgba(163,0,22,22) !important;
 }
 .is-dj .name, .is-staff .name{
