@@ -433,6 +433,7 @@ background-size:15px auto
 /*MFEBOT*/
 [data-cid^="3664742-"] span.un.clickable{
 color:#FFFFFF!important;
+text-align: center;
 }
 
 [data-cid^="3664742-"] .msg .from .un{
