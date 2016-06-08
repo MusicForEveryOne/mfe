@@ -237,11 +237,11 @@ color: #63A9E6;
 #chat .emote .text{
 font-style: normal;
 font-weight: bold;
-color: #A31616;
+color: #FFFFFF;
 }
 #chat .emote{
-border-left: rgba(55, 0, 255, 1) 3px solid !important;
-background-color: rgba(0, 101, 255, 0.19) !important;
+border-left: #7F1212 3px solid !important;
+background-color: #A31616 !important;
 }
 .is-dj .name, .is-staff .name{
 color: #63A9E6;
