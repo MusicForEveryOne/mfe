@@ -1,7 +1,7 @@
 {
 "room": "MFE",
 "author": "MFE Staff",
-"css": "http://rawgit.com/FALSEYING/mfe/master/style.css",
+"css": "https://rawgit.com/MusicForEveryOne/mfe/master/style.css",
 "rules":{
 "allowAutorespond": true,
 "allowAutowoot": true,
