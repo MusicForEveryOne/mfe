@@ -411,7 +411,6 @@ background-image:url(http://i.imgur.com/O1OI87d.gif);
 background-repeat:no-repeat;
 background-position:2px center;
 background-size:15px auto
-
 }
 
 /*DANNY*/
@@ -430,21 +429,12 @@ background-repeat:no-repeat;
 background-position:2px center;
 background-size:15px auto
 }
-/*KILLMANTV*/
-[data-cid^="5790591-"] .msg .from .un{
-position:relative;
-left:-1px;
-padding-left:21px;
-background-image:url(http://i.imgur.com/QQlTQhX.png);
-background-repeat:no-repeat;
-background-position:2px center;
-background-size:15px auto
+
+/*MFEBOT*/
+[data-cid^="3664742-"] span.un.clickable{
+color:#FFFFFF!important;
 }
 
-/*VIP*/
-
-/*Cookie*/
-[data-cid^="6104025-"] .badge-box .bdg{
-background: url('http://www.farmingfirst.org/wordpress/wp-content/plugins/ffnewsletter/spinner.gif')!important;
-background-position: 0 0;
+[data-cid^="3664742-"] .msg .from .un{
+visibility: hidden;
 }
