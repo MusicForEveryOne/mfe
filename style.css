@@ -410,7 +410,7 @@ padding-left:21px;
 background-image:url(http://i.imgur.com/O1OI87d.gif);
 background-repeat:no-repeat;
 background-position:2px center;
-background-size:15px auto
+background-size:15px auto;
 }
 
 /*DANNY*/
@@ -427,12 +427,14 @@ padding-left:21px;
 background-image:url(http://i.imgur.com/O1OI87d.gif);
 background-repeat:no-repeat;
 background-position:2px center;
-background-size:15px auto
+background-size:15px auto;
 }
 
 /*MFEBOT*/
 [data-cid^="3664742-"] span.un.clickable{
 color:#FFFFFF!important;
+background: url('http://puu.sh/plNgf/e3e66cca18.png')!important;
+background-position: 0 0;
 }
 
 [data-cid^="3664742-"].cm .msg .from .un, .role-manager.id-3664472 .name
