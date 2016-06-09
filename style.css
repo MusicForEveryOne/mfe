@@ -426,6 +426,6 @@ color:#A31616;
 color:#FFFFFF!important;
 }
 
-[data-cid^="3664742-"].cm .msg .from .un, .role-manager.id-3664742 .name{
-color: #FFFFFF !important;
+[data-cid^="3664742-"] .msg .from .icon-chat-manager{
+background: url("http://puu.sh/plEga/0709c795fc.png")!important;
 }
