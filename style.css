@@ -397,11 +397,6 @@ background-position:2px center;
 background-size:15px auto
 }*/
 
-[data-cid^="13410964-"] .badge-box .bdg{
-background: url('http://i.imgur.com/90uPYd4.png')!important;
-background-position: 0 0;
-}
-
 /*ROHLIK*/
 [data-cid^="3821094-"] .msg .from .un{
 position:relative;
@@ -414,21 +409,16 @@ background-size:15px auto;
 color:#A31616;
 }
 
-/*DANNY*/
-[data-cid^="4563453-"] .badge-box .bdg{
-background: url('http://i.imgur.com/guOWP5C.jpg')!important;
-background-position: 0 0;
-}
-
-/*SiesBicho*/
+/*SIESBICHO*/
 [data-cid^="5069104-"] .msg .from .un{
-position: relative;
+position:relative;
 left:-1px;
 padding-left:21px;
 background-image:url(http://i.imgur.com/O1OI87d.gif);
 background-repeat:no-repeat;
 background-position:2px center;
 background-size:15px auto;
+color:#A31616;
 }
 
 /*MFEBOT*/
