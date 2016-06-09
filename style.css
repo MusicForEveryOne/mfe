@@ -436,7 +436,6 @@ background-size:15px auto;
 color:#FFFFFF!important;
 }
 
-[data-cid^="3664742-"].cm .msg .from .un, .role-manager.id-3664472 .name
-{
-        color:                  white !important;
+[data-cid^="3664742-"].cm .msg .from .un, .role-manager.id-3664742 .name{
+color: #FFFFFF !important;
 }
