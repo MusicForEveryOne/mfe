@@ -429,3 +429,17 @@ color:#FFFFFF!important;
 [data-cid^="3664742-"] .msg .from .icon-chat-manager{
 background: url("http://i.imgur.com/JFWGWyM.png")!important;
 }
+
+/*VIP*/
+
+/*Gabriellka*/
+[data-cid^="4105051-"] .msg .from .un{
+position:relative;
+left:-1px;
+padding-left:21px;
+background-image:url(http://i.imgur.com/O1OI87d.gif);
+background-repeat:no-repeat;
+background-position:2px center;
+background-size:15px auto;
+color:#A31616;
+}
