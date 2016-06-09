@@ -1,7 +1,7 @@
 {
 "room": "MFE",
 "author": "MFE Staff",
-"css": "https://raw.githubusercontent.com/MusicForEveryOne/mfe/master/style.css",
+"css": "https://rawgit.com/MusicForEveryOne/mfe/master/style.css",
 "rules":{
 "allowAutorespond": true,
 "allowAutowoot": true,
