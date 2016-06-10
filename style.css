@@ -422,9 +422,15 @@ color:#FFFFFF!important;
 background: url("http://i.imgur.com/JFWGWyM.png")!important;
 }
 
+/*ELISSHA*/
+[data-cid^="3982394-"] .badge-box .bdg{
+background: url('http://media.tumblr.com/0afad0b9ed5f761bdd362b2e30308e0a/tumblr_inline_migbk3gihR1roozkr.gif')!important;
+background-position: 0 0;
+}
+
 /*VIP*/
 
-/*Gabriellka*/
+/*GABRIELLKA*/
 [data-cid^="4105051-"] .msg .from .un{
 position:relative;
 left:-1px;
@@ -434,4 +440,16 @@ background-repeat:no-repeat;
 background-position:2px center;
 background-size:15px auto;
 color:#A31616;
+}
+
+/*JASSYK*/
+[data-cid^="4115729-"] .badge-box .bdg{
+background: url('http://i.imgur.com/xgTXBjq.png')!important;
+background-position: 0 0;
+}
+
+/*NYGA NYGA*/
+[data-cid^="3726868-"] .badge-box .bdg{
+background: url('http://i.imgur.com/aA9IrPF.png')!important;
+background-position: 0 0;
 }
