@@ -428,6 +428,18 @@ background: url('http://media.tumblr.com/0afad0b9ed5f761bdd362b2e30308e0a/tumblr
 background-position: 0 0;
 }
 
+/*PETUS55*/
+[data-cid^="5351087-"] .badge-box .bdg{
+background: url('http://i.imgur.com/aFWlnXU.png')!important;
+background-position: 0 0;
+}
+
+/*HUSMANIA*/
+[data-cid^="3737749-"] .badge-box .bdg{
+background: url('http://i.imgur.com/MLqPaJP.jpg')!important;
+background-position: 0 0;
+}
+
 /*VIP*/
 
 /*GABRIELLKA*/
