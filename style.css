@@ -382,20 +382,20 @@ height: 15px;
 
 /*STAFF*/
 
-/*THEFALSE*/
+/*THEFALSE | http://i.imgur.com/wJTv6Pd.png*/
 
-/*[data-cid^="4635487-"] .msg .from .un{
+[data-cid^="4635487-"] .msg .from .un{
 position:relative;
 left:-1px;
 padding-left:21px;
-background-image:url(http://i.imgur.com/wJTv6Pd.png);
+background-image:url(http://i.imgur.com/AqcP7zU.png);
 background-repeat:no-repeat;
 background-position:2px center;
 background-size:15px auto
-}*/
+}
 
 [data-cid^="4635487-"] .badge-box .bdg{
-background: url('http://i.imgur.com/aFWlnXU.png')!important;
+background: url('http://i.imgur.com/V5oUkPD.png')!important;
 background-position: 0 0;
 }
 
