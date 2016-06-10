@@ -465,3 +465,18 @@ background-position: 0 0;
 background: url('http://i.imgur.com/aA9IrPF.png')!important;
 background-position: 0 0;
 }
+
+/*STYX25*/
+[data-cid^="4515471-"] span.un.clickable{
+color:#89BE6C!important;
+}
+
+[data-cid^="4515471-"] .msg .from .un{
+position:relative;
+left:-1px;
+padding-left:21px;
+background-image:url(https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png);
+background-repeat:no-repeat;
+background-position:2px center;
+background-size:15px auto
+}
