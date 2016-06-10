@@ -1,4 +1,4 @@
-/*CSS has been made for MFE Community, http://i.imgur.com/15oTdQq.png*/
+/*CSS has been made for MFE Community*/
 
 .icon{ 
 background-image: url('http://i.imgur.com/FrHLx1j.png'); 
@@ -381,19 +381,9 @@ height: 15px;
 }
 
 /*STAFF*/
+/* WHITE BA: http://i.imgur.com/wJTv6Pd.png | */
 
-/*THEFALSE | http://i.imgur.com/wJTv6Pd.png*/
-
-[data-cid^="4635487-"] .msg .from .un{
-position:relative;
-left:-1px;
-padding-left:21px;
-background-image:url(http://i.imgur.com/AqcP7zU.png);
-background-repeat:no-repeat;
-background-position:2px center;
-background-size:15px auto
-}
-
+/*THEFALSE*/
 [data-cid^="4635487-"] .badge-box .bdg{
 background: url('http://i.imgur.com/V5oUkPD.png')!important;
 background-position: 0 0;
