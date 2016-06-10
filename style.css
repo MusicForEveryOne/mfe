@@ -383,11 +383,8 @@ height: 15px;
 /*STAFF*/
 
 /*THEFALSE*/
-/*[data-cid^="13410964-"] span.un.clickable{
-color:#89BE6C!important;
-}*/
 
-/*[data-cid^="13410964-"] .msg .from .un{
+/*[data-cid^="4635487-"] .msg .from .un{
 position:relative;
 left:-1px;
 padding-left:21px;
@@ -396,6 +393,11 @@ background-repeat:no-repeat;
 background-position:2px center;
 background-size:15px auto
 }*/
+
+[data-cid^="4635487-"] .badge-box .bdg{
+background: url('http://i.imgur.com/aFWlnXU.png')!important;
+background-position: 0 0;
+}
 
 /*ROHLIK*/
 [data-cid^="3821094-"] .msg .from .un{
