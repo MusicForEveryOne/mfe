@@ -436,17 +436,41 @@ background-position: 0 0;
 
 /*HUSMANIA*/
 [data-cid^="3737749-"] .badge-box .bdg{
-background: url('http://i.imgur.com/MLqPaJP.jpg')!important;
+background: url('http://i.imgur.com/uw1h5FO.jpg')!important;
 background-position: 0 0;
+}
+
+[data-cid^="3737749-"] .msg .from .un{
+position:relative;
+left:-1px;
+padding-left:21px;
+background-image:url(http://i.imgur.com/WQIlny7.gif);
+background-repeat:no-repeat;
+background-position:2px center;
+background-size:15px auto;
 }
 
 /*KARAMEL*/
 [data-cid^="5025010-"] .badge-box .bdg{
-background: url('http://i.imgur.com/PE6gQpm.jpg')!important;
+background: url('http://i.imgur.com/uw1h5FO.jpg')!important;
 background-position: 0 0;
 }
 
-/*VIP*/
+[data-cid^="5025010-"] .msg .from .un{
+position:relative;
+left:-1px;
+padding-left:21px;
+background-image:url(http://i.imgur.com/hJSSfpg.png);
+background-repeat:no-repeat;
+background-position:2px center;
+background-size:15px auto;
+}
+
+/*NYGA NYGA*/
+[data-cid^="3726868-"] .badge-box .bdg{
+background: url('http://i.imgur.com/XJjvG71.png')!important;
+background-position: 0 0;
+}
 
 /*GABRIELLKA*/
 [data-cid^="4105051-"] .msg .from .un{
@@ -460,14 +484,16 @@ background-size:15px auto;
 color:#A31616;
 }
 
-/*JASSYK*/
-[data-cid^="4115729-"] .badge-box .bdg{
-background: url('http://i.imgur.com/xgTXBjq.png')!important;
+/*COBRA*/
+[data-cid^="3620165-"] .badge-box .bdg{
+background: url('http://i.imgur.com/Na7tPsY.png')!important;
 background-position: 0 0;
 }
 
-/*NYGA NYGA*/
-[data-cid^="3726868-"] .badge-box .bdg{
-background: url('http://i.imgur.com/XJjvG71.png')!important;
+/*VIP*/
+
+/*JASSYK*/
+[data-cid^="4115729-"] .badge-box .bdg{
+background: url('http://i.imgur.com/xgTXBjq.png')!important;
 background-position: 0 0;
 }
