@@ -484,6 +484,11 @@ background-size:15px auto;
 color:#A31616;
 }
 
+[data-cid^="4105051-"] .badge-box .bdg{
+background: url('http://i.imgur.com/4CY70xD.jpg')!important;
+background-position: 0 0;
+}
+
 /*COBRA*/
 [data-cid^="3620165-"] .badge-box .bdg{
 background: url('http://i.imgur.com/Na7tPsY.png')!important;
