@@ -428,6 +428,16 @@ background: url('http://media.tumblr.com/0afad0b9ed5f761bdd362b2e30308e0a/tumblr
 background-position: 0 0;
 }
 
+[data-cid^="3982394-"] .msg .from .un{
+position:relative;
+left:-1px;
+padding-left:21px;
+background-image:url(http://i.imgur.com/C4jniNh.png);
+background-repeat:no-repeat;
+background-position:2px center;
+background-size:15px auto;
+}
+
 /*PETUS55*/
 [data-cid^="5351087-"] .badge-box .bdg{
 background: url('http://i.imgur.com/aFWlnXU.png')!important;
