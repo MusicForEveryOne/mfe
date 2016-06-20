@@ -1,5 +1,7 @@
 /*CSS has been made for MFE Community*/
 
+@import url("https://rawgit.com/MusicForEveryOne/mfe/master/icons.css");
+
 .icon{ 
 background-image: url('http://i.imgur.com/FrHLx1j.png'); 
 }
@@ -379,5 +381,3 @@ background-position: 0 -366px !important;
 width: 15px;
 height: 15px;
 }
-
-@import url("https://rawgit.com/MusicForEveryOne/mfe/master/icons.css");
