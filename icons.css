@@ -119,3 +119,15 @@ background-position: 0 0;
 background: url('http://i.imgur.com/xgTXBjq.png')!important;
 background-position: 0 0;
 }
+
+/*ANETKA*/
+[data-cid^="13452298-"] .msg .from .un{
+position:relative;
+left:-2.3px;
+padding-left:21px;
+background-image:url(http://i.imgur.com/2lLrrYi.png);
+background-repeat:no-repeat;
+background-position:2px center;
+background-size:15px auto;
+color:#FF54F1;
+}
