@@ -16,7 +16,6 @@ background-image:url(http://i.imgur.com/O1OI87d.gif);
 background-repeat:no-repeat;
 background-position:2px center;
 background-size:15px auto;
-color:#A31616;
 }
 
 /*SIESBICHO*/
@@ -129,5 +128,8 @@ background-image:url(http://i.imgur.com/2lLrrYi.png);
 background-repeat:no-repeat;
 background-position:2px center;
 background-size:15px auto;
-color:#FF54F1;
+}
+
+[data-cid^="3664742-"] span.un.clickable{
+color:#FF54F1!important;
 }
