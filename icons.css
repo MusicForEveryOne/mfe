@@ -111,14 +111,6 @@ background: url('http://i.imgur.com/Na7tPsY.png')!important;
 background-position: 0 0;
 }
 
-/*VIP*/
-
-/*JASSYK*/
-[data-cid^="4115729-"] .badge-box .bdg{
-background: url('http://i.imgur.com/xgTXBjq.png')!important;
-background-position: 0 0;
-}
-
 /*ANETKA*/
 [data-cid^="13452298-"] .msg .from .un{
 position:relative;
@@ -130,6 +122,14 @@ background-position:2px center;
 background-size:15px auto;
 }
 
-[data-cid^="3664742-"] span.un.clickable{
+[data-cid^="13452298-"] span.un.clickable{
 color:#FF54F1!important;
+}
+
+/*VIP*/
+
+/*JASSYK*/
+[data-cid^="4115729-"] .badge-box .bdg{
+background: url('http://i.imgur.com/xgTXBjq.png')!important;
+background-position: 0 0;
 }
