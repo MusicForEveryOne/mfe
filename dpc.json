@@ -1,7 +1,7 @@
 {
 "room": "MFE",
 "author": "MFE Staff",
-"css": "https://rawgit.com/MusicForEveryOne/mfe/master/style.css",
+"css": null,
 "rules":{
 "allowAutorespond": true,
 "allowAutowoot": true,
@@ -15,15 +15,15 @@
 "ccc":{
 "admin": null,
 "ambassador": null,
-"host": "#5DB4FF",
-"cohost": "#5DB4FF",
-"manager": "#5DB4FF",
-"bouncer": "#5DB4FF",
-"rdj": "#5DB4FF",
-"subscriber": "#777F92",
-"silversubscriber": null,
+"host": "#0095FF",
+"cohost": "#38ACFF",
+"manager": "#7DC9FF",
+"bouncer": "#A8DBFF",
+"rdj": "#D1ECFF",
+"subscriber": "#FFA973",
+"silversubscriber": "#CCCCCC",
 "friend": null,
-"user": "#777F92"
+"user": "#9299A8"
 },
 "images":{
 "background": "http://i.imgur.com/aMSWa86.jpg",
