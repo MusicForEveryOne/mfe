@@ -308,14 +308,6 @@ color: #63A9E6 !important;
 .icon-chat-dj ~ .text > .name, .icon-chat-dj ~ .from, .icon-chat-dj ~ span{
 color: #63A9E6 !important;
 }
-#playback .background{
-left: 3px;
-}
-#playback{
-position: absolute;
-top: 54px;
-margin-left: -4px;
-}
 .icon-pp-small{
 background-position: -170px -456px;
 }
