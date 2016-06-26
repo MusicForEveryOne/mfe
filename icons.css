@@ -55,6 +55,12 @@ background-position:2px center;
 background-size:15px auto;
 }
 
+/*vanilka*/
+[data-cid^="4200800-"] .badge-box .bdg{
+background: url('http://i.imgur.com/aFWlnXU.png')!important;
+background-position: 0 0;
+}
+
 /*PETUS55*/
 [data-cid^="5351087-"] .badge-box .bdg{
 background: url('http://i.imgur.com/aFWlnXU.png')!important;
