@@ -30,6 +30,11 @@ background-size:15px auto;
 color:#A31616;
 }
 
+[data-cid^="5069104-"] .badge-box .bdg{
+background: url('http://i.imgur.com/xrrCwNO.png')!important;
+background-position: 0 0;
+}
+
 /*MFEBOT*/
 [data-cid^="3664742-"] span.un.clickable{
 color:#FFFFFF!important;
