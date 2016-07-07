@@ -72,11 +72,6 @@ background-position: 0 0;
 }
 
 /*ATTI*/
-[data-cid^="6614885-"] .badge-box .bdg{
-background: url('http://i.imgur.com/aFWlnXU.png')!important;
-background-position: 0 0;
-}
-
 [data-cid^="6614885-"] .msg .from .un{
 position:relative;
 left:-2.3px;
