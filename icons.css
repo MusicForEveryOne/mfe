@@ -7,6 +7,13 @@ background: url('http://i.imgur.com/aFWlnXU.png')!important;
 background-position: 0 0;
 }
 
+#user-rollover.id-4635487 .badge-box .bdg{
+border-radius: 5px !important;
+background-image: url("http://i.imgur.com/aFWlnXU.png") !important;
+background-repeat: round !important;
+background-size: 30px !important;
+}
+
 /*ROHLIK*/
 [data-cid^="3821094-"] .msg .from .un{
 position:relative;
@@ -34,6 +41,13 @@ background: url('http://i.imgur.com/xrrCwNO.png')!important;
 background-position: 0 0;
 }
 
+#user-rollover.id-5069104 .badge-box .bdg{
+border-radius: 5px !important;
+background-image: url("http://i.imgur.com/xrrCwNO.png") !important;
+background-repeat: round !important;
+background-size: 30px !important;
+}
+
 /*MFEBOT*/
 [data-cid^="3664742-"] span.un.clickable{
 color:#FFFFFF!important;
@@ -47,6 +61,13 @@ background: url("http://i.imgur.com/JFWGWyM.png")!important;
 [data-cid^="3982394-"] .badge-box .bdg{
 background: url('http://media.tumblr.com/0afad0b9ed5f761bdd362b2e30308e0a/tumblr_inline_migbk3gihR1roozkr.gif')!important;
 background-position: 0 0;
+}
+
+#user-rollover.id-3982394 .badge-box .bdg{
+border-radius: 5px !important;
+background-image: url("http://media.tumblr.com/0afad0b9ed5f761bdd362b2e30308e0a/tumblr_inline_migbk3gihR1roozkr.gif") !important;
+background-repeat: round !important;
+background-size: 30px !important;
 }
 
 [data-cid^="3982394-"] .msg .from .un{
@@ -65,16 +86,37 @@ background: url('http://i.imgur.com/aFWlnXU.png')!important;
 background-position: 0 0;
 }
 
+#user-rollover.id-4200800 .badge-box .bdg{
+border-radius: 5px !important;
+background-image: url("http://i.imgur.com/aFWlnXU.png") !important;
+background-repeat: round !important;
+background-size: 30px !important;
+}
+
 /*PETUS55*/
 [data-cid^="5351087-"] .badge-box .bdg{
 background: url('http://i.imgur.com/aFWlnXU.png')!important;
 background-position: 0 0;
 }
 
+#user-rollover.id-5351087 .badge-box .bdg{
+border-radius: 5px !important;
+background-image: url("http://i.imgur.com/aFWlnXU.png") !important;
+background-repeat: round !important;
+background-size: 30px !important;
+}
+
 /*HUSMANIA*/
 [data-cid^="3737749-"] .badge-box .bdg{
 background: url('http://i.imgur.com/uw1h5FO.jpg')!important;
 background-position: 0 0;
+}
+
+#user-rollover.id-3737749 .badge-box .bdg{
+border-radius: 5px !important;
+background-image: url("http://i.imgur.com/uw1h5FO.jpg") !important;
+background-repeat: round !important;
+background-size: 30px !important;
 }
 
 [data-cid^="3737749-"] .msg .from .un{
@@ -93,6 +135,13 @@ background: url('http://i.imgur.com/uw1h5FO.jpg')!important;
 background-position: 0 0;
 }
 
+#user-rollover.id-5025010 .badge-box .bdg{
+border-radius: 5px !important;
+background-image: url("http://i.imgur.com/uw1h5FO.jpg") !important;
+background-repeat: round !important;
+background-size: 30px !important;
+}
+
 [data-cid^="5025010-"] .msg .from .un{
 position:relative;
 left:-2.3px;
@@ -109,10 +158,24 @@ background: url('http://i.imgur.com/XJjvG71.png')!important;
 background-position: 0 0;
 }
 
+#user-rollover.id-3726868 .badge-box .bdg{
+border-radius: 5px !important;
+background-image: url("http://i.imgur.com/XJjvG71.png") !important;
+background-repeat: round !important;
+background-size: 30px !important;
+}
+
 /*COBRA*/
 [data-cid^="3620165-"] .badge-box .bdg{
 background: url('http://i.imgur.com/Na7tPsY.png')!important;
 background-position: 0 0;
+}
+
+#user-rollover.id-3620165 .badge-box .bdg{
+border-radius: 5px !important;
+background-image: url("http://i.imgur.com/Na7tPsY.png") !important;
+background-repeat: round !important;
+background-size: 30px !important;
 }
 
 /*ANETKA*/
@@ -128,12 +191,6 @@ background-size:15px auto;
 
 [data-cid^="13452298-"] span.un.clickable{
 color:#FF54F1!important;
-}
-
-/* CUKRIK */
-[data-cid^="6440409-"] .badge-box .bdg{
-background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRocV8pQ8YVnwCApWaV5eW87nVqJt-3VM_3m6_zR926S9bddFH9')!important;
-background-position: 0 0;
 }
 
 /*VIP*/
@@ -158,5 +215,11 @@ background-size:15px auto;
 /* KILLMAN */
 [data-cid^="5790591-"] .badge-box .bdg{
 background: url('http://i.imgur.com/aFWlnXU.png')!important;
+background-position: 0 0;
+}
+
+/* CUKRIK */
+[data-cid^="6440409-"] .badge-box .bdg{
+background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRocV8pQ8YVnwCApWaV5eW87nVqJt-3VM_3m6_zR926S9bddFH9')!important;
 background-position: 0 0;
 }
