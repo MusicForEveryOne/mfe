@@ -216,9 +216,3 @@ background-size: 15px auto;
 background: url('http://i.imgur.com/aFWlnXU.png') !important;
 background-position: 0 0;
 }
-
-/* CUKRIK */
-[data-cid^="6440409-"] .badge-box .bdg{
-background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRocV8pQ8YVnwCApWaV5eW87nVqJt-3VM_3m6_zR926S9bddFH9') !important;
-background-position: 0 0;
-}
