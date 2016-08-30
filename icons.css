@@ -267,3 +267,9 @@ background-size: 15px auto;
 background: url('http://i.imgur.com/aFWlnXU.png') !important;
 background-position: 0 0;
 }
+
+/* We Love Me <3*/
+[data-cid^="4150397-"] .badge-box .bdg{
+background: url('http://i.imgur.com/aFWlnXU.png') !important;
+background-position: 0 0;
+}
